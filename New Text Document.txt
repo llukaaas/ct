@@ -1,0 +1,10 @@
+INSERT INTO language VALUES('Serbian','Zdravo svete');
+INSERT INTO language VALUES('French','Bonjour le monde');
+INSERT INTO language VALUES('German','Hallo Welt');
+INSERT INTO language VALUES('Portuguese','Olá Mundo');
+INSERT INTO language VALUES('Russian','Privet, mir');
+INSERT INTO language VALUES('Danish','Hej Verden');
+INSERT INTO language VALUES('Latin','Salve mundi');
+INSERT INTO language VALUES('Macedonian','Zdravo Svetu');
+INSERT INTO language VALUES('Spanish','Hola Mundo');
+INSERT INTO language VALUES('Turkish','Selam Dunya');
